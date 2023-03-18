@@ -1,0 +1,31 @@
+/* main */
+main {
+    margin-top: 2rem;
+}
+
+.main-btn {
+    display: block;
+    padding: 0.3rem;
+    font-size: large;
+    margin: 0 auto;
+}
+
+.display-area {
+    width: 100%;
+    background-color: aquamarine;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    font-size: 70px;
+    text-align: center;
+}
+/* know numbers */
+#know-numbers {
+    width: 80%;
+    font-size: xx-large;
+    margin: 0 auto;
+}
+
+#know-numbers p {
+    text-align: center;
+}
+
